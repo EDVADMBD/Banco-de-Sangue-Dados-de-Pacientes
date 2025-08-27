@@ -4,3 +4,5 @@
 
 # Banco-de-Sangue-Dados-de-Pacientes
 Este notebook apresenta um dashboard interativo com visualizações dos dados do arquivo dados_pacientes.csv.
+
+https://colab.research.google.com/drive/1y47IXxQMPgUXSjYJjsYu4laRiuY39ngs?usp=sharing
