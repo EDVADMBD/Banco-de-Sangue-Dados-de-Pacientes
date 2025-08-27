@@ -25,7 +25,9 @@ Relações entre idade, altura e peso
 🌐 Visualização
 Todos os gráficos foram incorporados em um arquivo ipynb estático:
 
-📄 dashboard_pacientes.ipynb
+📄 dashboard_graficos_pacientes.ipynb
+
+https://colab.research.google.com/drive/1wAC5YjJ0xIjmv3plIWwQt1b7sIYo-6pA#scrollTo=DrtNpomC_x2y
 
 Você pode abrir este arquivo em qualquer navegador para visualizar o dashboard sem necessidade de instalar ou executar código.
 
