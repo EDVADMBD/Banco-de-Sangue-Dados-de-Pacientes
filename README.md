@@ -7,4 +7,4 @@ Este notebook apresenta um dashboard interativo com visualizações dos dados do
 
 https://colab.research.google.com/drive/1y47IXxQMPgUXSjYJjsYu4laRiuY39ngs?usp=sharing
 
-https://github.com/EDVADMBD/Banco-de-Sangue-Dados-de-Pacientes
+[https://github.com/EDVADMBD/Banco-de-Sangue-Dados-de-Pacientes](https://github.com/EDVADMBD/Banco-de-Sangue-Dados-de-Pacientes/blob/main/dashboard_dados_pacientes.ipynb)
