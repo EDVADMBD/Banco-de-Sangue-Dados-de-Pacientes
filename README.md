@@ -1,5 +1,6 @@
 
- <img width="763" height="465" alt="image" src="https://github.com/user-attachments/assets/3fbd5730-ada9-44ce-841f-53598918fcfc" />
+<img width="575" height="348" alt="image" src="https://github.com/user-attachments/assets/f1a6c66d-9fd5-4e15-b0f4-e52a5ef383f9" />
+
 
 
 # Banco-de-Sangue-Dados-de-Pacientes
