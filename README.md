@@ -23,16 +23,15 @@ Mapa de Calor de Correlação:
 
 Relações entre idade, altura e peso
 🌐 Visualização
-Todos os gráficos foram incorporados em um arquivo HTML estático:
+Todos os gráficos foram incorporados em um arquivo ipynb estático:
 
-📄 dashboard_pacientes.html
+📄 dashboard_pacientes.ipynb
 
 Você pode abrir este arquivo em qualquer navegador para visualizar o dashboard sem necessidade de instalar ou executar código.
 
 📁 Estrutura do Projeto
 dados_pacientes.csv: base de dados utilizada
-dashboard_pacientes.py: script que gera os gráficos e o HTML
-dashboard_pacientes.html: visualização estática do dashboard
+dashboard_pacientes.py: script que gera os gráficos com a visualização estática do dashboard
 graficos_dashboard/: pasta com os gráficos gerados individualmente
 🛠️ Tecnologias Utilizadas
 Python
