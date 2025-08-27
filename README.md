@@ -1,0 +1,6 @@
+
+<img width="763" height="465" alt="image" src="https://github.com/user-attachments/assets/3fbd5730-ada9-44ce-841f-53598918fcfc" />
+
+
+# Banco-de-Sangue-Dados-de-Pacientes
+Este notebook apresenta um dashboard interativo com visualizações dos dados do arquivo dados_pacientes.csv.
